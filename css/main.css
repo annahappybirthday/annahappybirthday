@@ -176,7 +176,7 @@ video {
 
 @media (max-width: 400px){
 video {
-  width: 280px;
+  width: 240px;
 	height: auto;
  }
 }
