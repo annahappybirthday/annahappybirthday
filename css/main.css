@@ -66,7 +66,7 @@ html {
 
 @media (max-width: 800px) {
 	.picture {
-	height: 40%;
+	height: 30%;
 	position: absolute;
     top: 40%;
    	left: 50%;
