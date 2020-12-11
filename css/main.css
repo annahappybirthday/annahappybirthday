@@ -173,6 +173,15 @@ video {
 	margin-top: 60px;
 }
 
+
+@media (max-width: 400px){
+video {
+  width: 280px;
+	height: auto;
+ }
+}
+
+
 .limited {
  	max-height: 2000px;
  	overflow: hidden;
